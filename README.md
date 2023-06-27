@@ -29,3 +29,64 @@
 
 <hr>
 <h3>👨‍🔧 What I've worked with (my skills):</h3>
+
+
+<table>
+  <tr>
+      <th colspan="4">Develoment:</th>
+  </tr>
+    <tr>
+      <td>Python</td>
+      <td>Java</td>
+      <td>JavaScript</td>
+      <td>SQL</td>
+    </tr>
+    <tr>
+      <td>ReactJS</td>
+      <td>TypeScript</td>
+      <td>HTML/CSS</td>
+      <td>Shell Script</td>
+    </tr>
+</table>
+
+<table>
+  <tr>
+      <th colspan=4>Integration Technologies:</th>
+  </tr>
+    <tr>
+      <td rowspan=2>IBM Integration Bus 10 /<br>Message Broker</td>
+      <td>REST</td>
+      <td>SOAP</td>
+    </tr>
+    <tr>
+      <td>XML and XSD</td>
+      <td>JSON</td>
+    </tr>
+</table>
+
+<table>
+  <tr>
+      <th colspan=4>Methodologies and Tools:</th>
+  </tr>
+    <tr>
+      <td>Scrum and Agile</td>
+      <td>Git</td>
+      <td>Docker</td>
+      <td>Kubernetes</td>
+    </tr>
+    <tr>
+      <td>Waterfall</td>
+      <td>AWS</td>
+      <td>CI/CD</td>
+      <td></td>
+    </tr>
+</table>
+
+<hr>
+<h3>🔭 I’m currently working on...</h3>
+
+... my [little study project](https://gmtommasini.github.io/my-page/) hosted here on GitHu pages.
+
+It consists in a multi-technologies project, where the main front-end is a React app, and the backend is build in Python. Some pages are built in flask, and I am planning to add a Spring project in the future.
+
+NOTE: It is not supposed to be fancy 😂, it's just for study and practicing purposes!
