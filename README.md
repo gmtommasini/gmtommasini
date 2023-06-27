@@ -85,8 +85,8 @@
 <hr>
 <h3>🔭 I’m currently working on...</h3>
 
-... my [little study project](https://gmtommasini.github.io/my-page/) hosted here on GitHu pages.
+... my [little study project](https://gmtommasini.github.io/my-page/) hosted here on GitHub pages.
 
-It consists in a multi-technologies project, where the main front-end is a React app, and the backend is build in Python. Some pages are built in flask, and I am planning to add a Spring project in the future.
+It consists in a multi-technologies project, where the main front-end is a React app, and the backend is in Python. Some pages are built in flask, and I am planning to add a Spring project in the future.
 
 NOTE: It is not supposed to be fancy 😂, it's just for study and practicing purposes!
